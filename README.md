@@ -48,3 +48,64 @@ Frontend (React.js) <--> Backend (Node.js, Flask) <--> Database (PostgreSQL)
   API Calls               AI/ML Models
     ⬆️                         ⬆️
   External APIs         Blockchain Smart Contracts
+```
+#🚀 Getting Started
+## 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/crossfi-ai.git
+cd crossfi-ai
+```
+## 2️⃣ Backend Setup (Node.js & Flask)
+Install dependencies:
+```bash
+cd backend
+npm install
+```
+Create a .env file with required environment variables:
+```plaintext
+DATABASE_URL=your_postgresql_url
+JWT_SECRET=your_secret_key
+```
+## Start the backend:
+```bash
+npm start
+```
+## Flask API Setup (for AI Models)
+```bash 
+cd flask-backend
+pip install -r requirements.txt
+python app.py
+```
+## 3️⃣ Frontend Setup (React.js)
+Install dependencies:
+```bash
+cd frontend
+npm install
+```
+Start the React app:
+```bash
+npm start
+```
+## 🛠️ Future Enhancements
+📈 AI-Based Portfolio Management
+🌐 DeFi Integration
+📊 Automated Financial Reports
+🏦 Cross-Border Loan Approvals with AI Risk Assessment
+🔗 Integration with Multiple Blockchains for Interoperability
+🤝 Contributing
+We welcome contributions! 🚀
+
+Fork the repo.
+Create a new branch (feature-branch).
+Commit changes (git commit -m "Added new feature").
+Push to branch and create a PR.
+📜 License
+This project is open-source and licensed under the MIT License.
+
+🔗 Links & References
+Live Demo: CrossFi AI on Vercel
+GitHub Repo: CrossFi AI Repository
+
+##👨‍💻 Team & Acknowledgments
+Developed by Raj Kishore ✨
+Special thanks to mentors, organizers, and API providers! 🚀
