@@ -104,6 +104,7 @@ This project is open-source and licensed under the MIT License.
 Live Demo: [CrossFi AI on netlify](https://crossfi-ai.netlify.app/)
 GitHub Repo: [CrossFi AI Repository](https://github.com/Rajkishore08/CrossFi-AI)
 
-##👨‍💻 Team & Acknowledgments
+## 👨‍💻 Acknowledgments
 Developed by Raj Kishore ✨
+
 Special thanks to mentors, organizers, and API providers! 🚀
