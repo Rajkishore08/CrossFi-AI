@@ -36,7 +36,7 @@ CrossFi AI is **applicable for multiple hackathon tracks**:
 | **Machine Learning** | Python (Scikit-learn, Pandas, NumPy) |
 | **Blockchain** | Solidity, Hardhat, Ethereum |
 | **APIs Used**  | Wolfram API, Open Exchange Rates API, RapidAPI for FX Data |
-| **Deployment** | Vercel (Frontend), Render (Backend), Docker |
+| **Deployment** | Netlify|
 
 ---
 
@@ -52,7 +52,7 @@ Frontend (React.js) <--> Backend (Node.js, Flask) <--> Database (PostgreSQL)
 #🚀 Getting Started
 ## 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/crossfi-ai.git
+git clone https://github.com/Rajkishore08/CrossFi-AI
 cd crossfi-ai
 ```
 ## 2️⃣ Backend Setup (Node.js & Flask)
@@ -88,23 +88,21 @@ npm start
 ```
 ## 🛠️ Future Enhancements
 📈 AI-Based Portfolio Management
-🌐 DeFi Integration
-📊 Automated Financial Reports
-🏦 Cross-Border Loan Approvals with AI Risk Assessment
-🔗 Integration with Multiple Blockchains for Interoperability
-🤝 Contributing
-We welcome contributions! 🚀
 
-Fork the repo.
-Create a new branch (feature-branch).
-Commit changes (git commit -m "Added new feature").
-Push to branch and create a PR.
-📜 License
+🌐 DeFi Integration
+
+📊 Automated Financial Reports
+
+🏦 Cross-Border Loan Approvals with AI Risk Assessment
+
+🔗 Integration with Multiple Blockchains for Interoperability
+
+## 📜 License
 This project is open-source and licensed under the MIT License.
 
 🔗 Links & References
-Live Demo: CrossFi AI on Vercel
-GitHub Repo: CrossFi AI Repository
+Live Demo: [CrossFi AI on netlify](https://crossfi-ai.netlify.app/)
+GitHub Repo: [CrossFi AI Repository](https://github.com/Rajkishore08/CrossFi-AI)
 
 ##👨‍💻 Team & Acknowledgments
 Developed by Raj Kishore ✨
