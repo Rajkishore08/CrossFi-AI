@@ -24,8 +24,8 @@ CrossFi AI is an advanced automation tool leveraging Safe (Gnosis) smart account
 ## **Setup Instructions**
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/defi-automator.git
-cd defi-automator
+git clone https://github.com/Rajkishore08/CrossFi-AI
+cd CrossFi-AI
 ```
 ### **2️⃣ Install Dependencies**
 ```sh
@@ -41,24 +41,24 @@ POLYMARKET_API_KEY=your_polymarket_api_key
 ```
 ### **4️⃣ Deploy Safe (Gnosis) Smart Account**
 ```sh
-node scripts/deploy-safe.js
+node backend/deploy-safe.js
 ```
 ### **5️⃣ Automate CoW Protocol Trading**
 ```sh
-node scripts/cow-trading.js
+node backend/cow-trading.js
 ```
 ### **6️⃣ Automate Polymarket Predictions**
 ```sh
-node scripts/polymarket.js
+node backend/polymarket.js
 ```
 ### **7️⃣ Generate Crypto Memes**
 ```sh
-python scripts/meme-generator.py
+python backend/meme-generator.py
 ```
 ### **File Structure**
 ```bash
 📂 CrossFi-AI
- ├── 📂 scripts
+ ├── 📂 backend
  │   ├── deploy-safe.js      # Deploys Safe (Gnosis) smart account
  │   ├── cow-trading.js      # Automates CoW Protocol trades
  │   ├── polymarket.js       # Automates Polymarket betting
@@ -71,12 +71,20 @@ python scripts/meme-generator.py
  ├── package.json            # Project dependencies
  ├── README.md               # Project documentation
 ```
-Tech Stack
-Blockchain: Safe (Gnosis), CoW Protocol, Polymarket
-Backend: Node.js, Python
-AI & ML: OpenAI API (for memes)
-Security: Web3.js, ethers.js
-Future Enhancements
+## **Tech Stack**
+
+**Blockchain:** Safe (Gnosis), CoW Protocol, Polymarket
+
+**Backend:** Node.js, Python
+
+**AI & ML:** OpenAI API (for memes)
+
+**Security:** Web3.js, ethers.js
+
+## **Future Enhancements**
+
 ✅ Integrate Chainlink for real-time price feeds
+
 ✅ Improve meme AI model for contextual accuracy
+
 ✅ Enable Telegram/Discord bot for trade notifications
