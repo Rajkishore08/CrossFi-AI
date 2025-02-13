@@ -1,0 +1,8 @@
+{
+  "network": "ethereum",
+  "owner": "0xYourEthereumAddress",
+  "threshold": 1,
+  "modules": [],
+  "fallbackHandler": "0xYourFallbackHandler",
+  "version": "1.3.0"
+}
