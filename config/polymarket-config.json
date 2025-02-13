@@ -1,0 +1,9 @@
+{
+  "apiUrl": "https://polymarket.com/api/v1",
+  "marketId": "0xYourPolymarketId",
+  "betAmount": 10,
+  "riskManagement": {
+    "maxLossPercentage": 5,
+    "maxBetSize": 100
+  }
+}
