@@ -67,6 +67,7 @@ python backend/meme-generator.py
  │   ├── safe-config.json    # Config for Safe deployment
  │   ├── cow-config.json     # CoW Protocol settings
  │   ├── polymarket-config.json # Polymarket settings
+ ├── 📂 smart_contracts/deploy_safe.js
  ├── .env                    # Environment variables
  ├── package.json            # Project dependencies
  ├── README.md               # Project documentation
