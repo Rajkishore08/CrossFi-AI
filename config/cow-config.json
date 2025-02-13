@@ -1,0 +1,6 @@
+{
+  "apiUrl": "https://api.cow.fi/mainnet/api/v1",
+  "tradingPair": "ETH/DAI",
+  "maxSlippage": 0.005,
+  "gasLimit": 250000
+}
