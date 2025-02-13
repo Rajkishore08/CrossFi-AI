@@ -1,0 +1,9 @@
+{
+  "model": "dalle-2",
+  "promptTemplates": [
+    "Crypto traders when {event}",
+    "Me waiting for {coin} to moon",
+    "The crypto market right now: {situation}"
+  ],
+  "outputDir": "generated_memes"
+}
