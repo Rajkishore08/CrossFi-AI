@@ -17,6 +17,8 @@ CrossFi AI is an advanced automation tool leveraging Safe (Gnosis) smart account
 ✅ **Polymarket Betting Strategy** – Market-based trading automation  
 ✅ **Meme Generation** – AI-driven crypto engagement  
 
+
+
 ---
 
 ## **Setup Instructions**
@@ -24,3 +26,57 @@ CrossFi AI is an advanced automation tool leveraging Safe (Gnosis) smart account
 ```sh
 git clone https://github.com/yourusername/defi-automator.git
 cd defi-automator
+```
+### **2️⃣ Install Dependencies**
+```sh
+npm install
+```
+### **3️⃣ Environment Variables**
+Create a .env file with the following details:
+```sh
+PRIVATE_KEY=your_wallet_private_key
+SAFE_ADDRESS=your_safe_smart_account
+COW_API_KEY=your_cow_protocol_api_key
+POLYMARKET_API_KEY=your_polymarket_api_key
+```
+### **4️⃣ Deploy Safe (Gnosis) Smart Account**
+```sh
+node scripts/deploy-safe.js
+```
+### **5️⃣ Automate CoW Protocol Trading**
+```sh
+node scripts/cow-trading.js
+```
+### **6️⃣ Automate Polymarket Predictions**
+```sh
+node scripts/polymarket.js
+```
+### **7️⃣ Generate Crypto Memes**
+```sh
+python scripts/meme-generator.py
+```
+### **File Structure**
+```bash
+📂 CrossFi-AI
+ ├── 📂 scripts
+ │   ├── deploy-safe.js      # Deploys Safe (Gnosis) smart account
+ │   ├── cow-trading.js      # Automates CoW Protocol trades
+ │   ├── polymarket.js       # Automates Polymarket betting
+ │   ├── meme-generator.py   # AI-powered meme creation
+ ├── 📂 config
+ │   ├── safe-config.json    # Config for Safe deployment
+ │   ├── cow-config.json     # CoW Protocol settings
+ │   ├── polymarket-config.json # Polymarket settings
+ ├── .env                    # Environment variables
+ ├── package.json            # Project dependencies
+ ├── README.md               # Project documentation
+```
+Tech Stack
+Blockchain: Safe (Gnosis), CoW Protocol, Polymarket
+Backend: Node.js, Python
+AI & ML: OpenAI API (for memes)
+Security: Web3.js, ethers.js
+Future Enhancements
+✅ Integrate Chainlink for real-time price feeds
+✅ Improve meme AI model for contextual accuracy
+✅ Enable Telegram/Discord bot for trade notifications
