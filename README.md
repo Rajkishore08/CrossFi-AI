@@ -1,110 +1,26 @@
-# 🚀 CrossFi AI - AI-Powered Cross-Border Finance Simplified
+# 🚀 **CrossFi AI - Safe Smart Accounts & Automated Trading**
 
-CrossFi AI is an **AI-powered cross-border finance platform** designed to **simplify international transactions, optimize remittances, and provide data-driven financial insights.** Built using **React.js, Node.js, Flask, and PostgreSQL**, it integrates **AI, Blockchain, and FinTech** to revolutionize financial transactions.
+## **Overview**
+CrossFi AI is an advanced automation tool leveraging Safe (Gnosis) smart accounts, CoW Protocol, and Polymarket for seamless decentralized trading. The project also includes AI-powered meme generation for community engagement.
 
-## 🌟 Features
-
-- **🌍 Cross-Border Transactions**: Fast, secure, and cost-effective international money transfers.
-- **🤖 AI-Powered Financial Insights**: Predictive analytics for optimizing remittances and foreign exchange rates.
-- **💰 Expense & EMI Tracking**: Integrated expense and EMI tracking using AI-based financial predictions.
-- **🛡️ Secure Transactions with Blockchain**: Utilizes **smart contracts** for trustless and transparent transactions.
-- **🔄 Multi-Currency Support**: Seamless conversion and handling of multiple currencies.
-- **📊 Risk Assessment & Fraud Detection**: AI-powered models to detect fraudulent transactions.
-- **📡 Live Market Data Integration**: Fetches real-time **FX rates, stock trends, and financial news** for better decision-making.
-- **🛠️ User-Friendly Dashboard**: Intuitive UI for managing financial assets, transactions, and insights.
+## **Features**
+- 🔐 **Safe (Gnosis) Smart Accounts** – Deploy and manage smart contract wallets efficiently.
+- 🤖 **Automated Trading with CoW Protocol** – Secure, gas-efficient order execution.
+- 📊 **Polymarket Betting** – Automated decision-making for prediction markets.
+- 🎨 **AI Meme Generation** – Generate and distribute viral crypto memes.
 
 ---
 
-## 🏆 Hackathon Tracks Qualification  
-
-CrossFi AI is **applicable for multiple hackathon tracks**:
-- **FinTech & Open Innovation**: AI-driven financial insights & remittance optimization.
-- **Blockchain & Web3**: Secure cross-border transactions with smart contracts.
-- **AI & Data Science**: Predictive analytics for finance, fraud detection, and market trend analysis.
-- **Cybersecurity**: Secure financial transactions using AI-driven fraud detection mechanisms.
-- **Sustainability & Impact**: Optimizing global finance to reduce remittance costs and financial inequalities.
+## **Bounty Eligibility**
+✅ **Safe (Gnosis) Smart Accounts** – Secure wallet automation  
+✅ **CoW Protocol Automation** – Efficient trade execution  
+✅ **Polymarket Betting Strategy** – Market-based trading automation  
+✅ **Meme Generation** – AI-driven crypto engagement  
 
 ---
 
-## ⚙️ Tech Stack
-
-| **Category**    | **Technology Used** |
-|----------------|--------------------|
-| **Frontend**   | React.js, Tailwind CSS |
-| **Backend**    | Node.js (Express.js), Flask |
-| **Database**   | PostgreSQL |
-| **Machine Learning** | Python (Scikit-learn, Pandas, NumPy) |
-| **Blockchain** | Solidity, Hardhat, Ethereum |
-| **APIs Used**  | Wolfram API, Open Exchange Rates API, RapidAPI for FX Data |
-| **Deployment** | Netlify|
-
----
-
-## 🎯 System Architecture
-
-```plaintext
-Frontend (React.js) <--> Backend (Node.js, Flask) <--> Database (PostgreSQL)
-    ⬆️                         ⬆️
-  API Calls               AI/ML Models
-    ⬆️                         ⬆️
-  External APIs         Blockchain Smart Contracts
-```
-#🚀 Getting Started
-## 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/Rajkishore08/CrossFi-AI
-cd crossfi-ai
-```
-## 2️⃣ Backend Setup (Node.js & Flask)
-Install dependencies:
-```bash
-cd backend
-npm install
-```
-Create a .env file with required environment variables:
-```plaintext
-DATABASE_URL=your_postgresql_url
-JWT_SECRET=your_secret_key
-```
-## Start the backend:
-```bash
-npm start
-```
-## Flask API Setup (for AI Models)
-```bash 
-cd flask-backend
-pip install -r requirements.txt
-python app.py
-```
-## 3️⃣ Frontend Setup (React.js)
-Install dependencies:
-```bash
-cd frontend
-npm install
-```
-Start the React app:
-```bash
-npm start
-```
-## 🛠️ Future Enhancements
-📈 AI-Based Portfolio Management
-
-🌐 DeFi Integration
-
-📊 Automated Financial Reports
-
-🏦 Cross-Border Loan Approvals with AI Risk Assessment
-
-🔗 Integration with Multiple Blockchains for Interoperability
-
-## 📜 License
-This project is open-source and licensed under the MIT License.
-
-🔗 Links & References
-Live Demo: [CrossFi AI on netlify](https://crossfi-ai.netlify.app/)
-GitHub Repo: [CrossFi AI Repository](https://github.com/Rajkishore08/CrossFi-AI)
-
-## 👨‍💻 Acknowledgments
-Developed by Raj Kishore ✨
-
-Special thanks to mentors, organizers, and API providers! 🚀
+## **Setup Instructions**
+### **1️⃣ Clone the Repository**
+```sh
+git clone https://github.com/yourusername/defi-automator.git
+cd defi-automator
