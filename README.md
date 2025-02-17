@@ -14,6 +14,7 @@ CrossFi AI is an advanced automation tool leveraging Safe (Gnosis) smart account
 - 🌐 **DeFAI: BrahmaFi On-Chain Strategy Execution** – AI-driven DeFi automation using ConsoleKit.  
 
 ---
+![WhatsApp Image 2025-02-17 at 11 02 35_8f54665f](https://github.com/user-attachments/assets/e17b1d75-54fa-477d-baac-61ab00ed10b9)
 
 ## **Bounty Eligibility**  
 ✅ **Safe (Gnosis) Smart Accounts** – Secure wallet automation  
