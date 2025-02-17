@@ -1,0 +1,14 @@
+{
+  "brahmaFi": {
+    "apiKey": "your_brahmafi_api_key",
+    "stablecoinStrategy": {
+      "enabled": true,
+      "lendingProtocol": "Aave",
+      "yieldFarming": "Balancer"
+    },
+    "onChainExecution": {
+      "enabled": true,
+      "rebalanceFrequency": "daily"
+    }
+  }
+}
