@@ -1,0 +1,10 @@
+{
+  "duckAI": {
+    "apiKey": "your_duckai_api_key",
+    "smartAccountExecution": {
+      "enabled": true,
+      "decisionModel": "reinforcement_learning",
+      "executionFrequency": "adaptive"
+    }
+  }
+}
