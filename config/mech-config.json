@@ -1,7 +1,11 @@
 {
-  "apiKey": "your_mech_marketplace_api_key",
-  "agentId": "your_mech_agent_id",
-  "tradingStrategy": "AI-powered automated trading",
-  "maxRisk": 0.05,
-  "slippage": 0.01
+  "mechMarketplace": {
+    "apiKey": "your_mech_marketplace_api_key",
+    "agentName": "CrossFi AI Trader",
+    "strategy": "automated defi trading",
+    "execution": {
+      "frequency": "real-time",
+      "riskManagement": "moderate"
+    }
+  }
 }
