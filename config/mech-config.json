@@ -1,0 +1,7 @@
+{
+  "apiKey": "your_mech_marketplace_api_key",
+  "agentId": "your_mech_agent_id",
+  "tradingStrategy": "AI-powered automated trading",
+  "maxRisk": 0.05,
+  "slippage": 0.01
+}
